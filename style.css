@@ -1,5 +1,8 @@
-#title {
+* {
     font-family: 'Fira Sans';
+}
+
+#title {
     position: relative;
     left: 40px;
     top: 10px;
