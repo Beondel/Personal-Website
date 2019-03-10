@@ -66,8 +66,9 @@ a.link {
 
 #links {
     position: relative;
-    left: 700px;
-    bottom: 45px;
+    float: right;
+    right: 5em;
+    bottom: 3em;
 }
 
 
