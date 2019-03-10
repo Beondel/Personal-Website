@@ -1,7 +1,16 @@
 #title {
     font-family: "Courier New", Courier, monospace;
+    position: relative;
+    left: 40px;
 }
 
 #body {
-    color: #ffffff;
+    background-color: #ffffff;
+    width: 50%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
 }
