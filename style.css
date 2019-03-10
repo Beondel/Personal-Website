@@ -28,6 +28,8 @@
 }
 
 .section > .item-title {
+    position: relative;
+    top: 30px;
     font-size: x-large;
 }
 
@@ -35,10 +37,15 @@
     position: relative;
     left: 60px;
     top: 20px;
+    vertical-align: center;
 }
 
-.section > .image {
+.item > .image {
     vertical-align: center;
-    width: 50px;
+    width: 20px;
     height: auto;
+}
+
+.item > .text {
+    
 }
