@@ -27,7 +27,7 @@
     top: 60px;
 }
 
-.section > p {
+.section > .item-title {
     font-size: x-large;
 }
 
