@@ -1,7 +1,9 @@
 #title {
-    font-family: "Courier New", Courier, monospace;
+    font-family: "Times New Roman", Times, serif;
     position: relative;
     left: 40px;
+    top: 10px;
+    letter-spacing: 2px;
 }
 
 #body {
@@ -13,4 +15,5 @@
     left: 0;
     right: 0;
     margin: auto;
+    box-shadow: 5px 10px 18px #888888;
 }
