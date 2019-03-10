@@ -22,9 +22,17 @@
 }
 
 .section {
+    position: relative;
     left: 60px;
+    top: 20px;
 }
 
 .section > p {
     font-size: x-large;
+}
+
+.section > .item {
+    position: relative;
+    left: 60px;
+    top: 20px;
 }
